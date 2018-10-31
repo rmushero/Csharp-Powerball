@@ -1,0 +1,10 @@
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\bin\Debug\tutorial7-1.exe.config
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\bin\Debug\tutorial7-1.exe
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\bin\Debug\tutorial7-1.pdb
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7-1.csprojAssemblyReference.cache
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7_1.Form1.resources
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7_1.Properties.Resources.resources
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7-1.csproj.GenerateResource.cache
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7-1.csproj.CoreCompileInputs.cache
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7-1.exe
+C:\Users\rodneym\source\repos\tutorial7-1\tutorial7-1\obj\Debug\tutorial7-1.pdb
